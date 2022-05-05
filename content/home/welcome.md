@@ -12,6 +12,4 @@ design:
   background:
     image: ""
 ---
-<br>
-
 **Xiong Research Group** focuses on investigating the mechanics of Advanced Lightweight Composite Structures.
