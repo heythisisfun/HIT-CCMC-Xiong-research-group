@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-**Xiong's Research Group** focuses on investigatng the mechanics of Advanced Lightweight Composite Structures.
+**Xiong**'**s Research Group** focuses on investigating the mechanics of Advanced Lightweight Composite Structures.
